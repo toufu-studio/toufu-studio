@@ -9,5 +9,5 @@ HI I'm oboro_toufu.
 
 
 
-# 💡My main language
+# 💡My Main Programming Language
 c#
