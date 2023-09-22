@@ -1,16 +1,13 @@
-### Hi there 👋
+![banner](img/hello_world.png)
 
-<!--
-**toufu-studio/toufu-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# HELLO WORLD
+HI I,m oboro_toufu.
+٩( ᐛ)و
 
-Here are some ideas to get you started:
+# SNS
+* [Twitter]([https://twitter.com/akazdayo](https://twitter.com/Toufu_studio))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+# My main language
+c#
