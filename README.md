@@ -1,13 +1,13 @@
 ![banner](code.png)
 
-# HELLO WORLD
+# 🌐HELLO WORLD
 HI I,m oboro_toufu.
 ٩( ᐛ)و
 
-# SNS
+# 👾SNS
 * [Twitter]([https://twitter.com/akazdayo](https://twitter.com/Toufu_studio))
 
 
 
-# My main language
+# ⌨️My main language
 c#
