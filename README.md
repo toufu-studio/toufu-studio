@@ -8,8 +8,3 @@ I often use the C#.
 # 👾SNS
 * [Twitter](https://twitter.com/Toufu_studio)
 * [YouTube](https://www.youtube.com/@toufu_studio)
-
-
-
-# 💡My Main Programming Language
-c#
