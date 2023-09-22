@@ -2,7 +2,7 @@
 
 # 🌐HELLO WORLD
 HI I'm oboro_toufu.
-٩( ᐛ)و
+٩( ᐛ )و
 
 # 👾SNS
 * [Twitter]([https://twitter.com/akazdayo](https://twitter.com/Toufu_studio))
