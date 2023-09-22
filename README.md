@@ -1,4 +1,4 @@
-![banner](img/hello_world.png)
+![banner](code.png)
 
 # HELLO WORLD
 HI I,m oboro_toufu.
