@@ -3,7 +3,7 @@
 # 🌐HELLO WORLD
 HI I'm oboro_toufu.<br>
 I often use the C#.<br>
-software used: Unity,UnrealEngine5,VisualStudioCode,PremierePro,AfterEffects,Photoshop,Illustrator<br>
+software used: Unity,UnrealEngine5,Blender,VisualStudioCode,PremierePro,AfterEffects,Photoshop,Illustrator<br>
 ٩( ᐛ )و
 
 # 👾SNS
